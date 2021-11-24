@@ -1,0 +1,12 @@
+.copy {
+  font-size: 12px;
+  padding: 10px;
+  border-top: 1px solid grey;
+  background-color: #1b98f5;
+  margin: 0 auto;
+  height: auto;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0px;
+  color: #ffffff;
+}
